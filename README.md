@@ -1,4 +1,4 @@
-دResults
+Results
 
 This study compared AI-generated and human learner (CEFR B1) texts using three core syntactic complexity measures: Mean Length of Sentence (MLS), Mean Length of T-unit (MLT), and Clausal Subordination (CS). Descriptive and inferential statistical analyses were conducted in R.
 
